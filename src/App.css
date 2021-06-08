@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+
+
+ul{
+  list-style: none;
+}
+.but{
+  
+  margin-top: 10px;
+}
+.app{
+  
+    color: brown;
+   
+}
+.done{
+  text-decoration: line-through;
+}
